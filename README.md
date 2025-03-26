@@ -48,6 +48,9 @@ This tool is for:
    streamlit run app.py
    ```
 
+> 💡 Make sure you have Ollama installed and running locally to use the `llama3.1` model: https://ollama.com/
+
+
 ## Upcoming:
 - Multimodal PDF parsing
 
